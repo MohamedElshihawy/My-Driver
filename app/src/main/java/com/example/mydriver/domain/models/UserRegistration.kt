@@ -1,4 +1,4 @@
-package com.example.mydriver.data.remote.models
+package com.example.mydriver.domain.models
 
 data class UserRegistration(
     val userName: String,

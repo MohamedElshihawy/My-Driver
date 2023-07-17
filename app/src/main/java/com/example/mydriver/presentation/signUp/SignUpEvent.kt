@@ -1,6 +1,6 @@
 package com.example.mydriver.presentation.signUp
 
-import com.example.mydriver.data.remote.models.UserRegistration
+import com.example.mydriver.domain.models.UserRegistration
 
 sealed class SignUpEvent {
 

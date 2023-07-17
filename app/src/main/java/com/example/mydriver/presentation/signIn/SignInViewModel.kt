@@ -4,7 +4,7 @@ import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.mydriver.data.remote.models.UserRegistration
+import com.example.mydriver.domain.models.UserRegistration
 import com.example.mydriver.domain.useCases.UseCasesWrapper
 import com.example.mydriver.util.Resource
 import com.google.firebase.database.DataSnapshot

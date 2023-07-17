@@ -33,7 +33,7 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.mydriver.data.remote.models.UserRegistration
+import com.example.mydriver.domain.models.UserRegistration
 import com.example.mydriver.navigation.Screen
 import com.example.mydriver.presentation.common.CustomTextField
 import kotlinx.coroutines.launch
